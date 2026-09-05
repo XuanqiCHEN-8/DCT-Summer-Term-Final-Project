@@ -21,7 +21,8 @@ I started by making a small prototype with cardboard to test the basic movement 
 [2] Huyghe, P., n.d. Untilled | Pierre Huyghe [WWW Document]. EstherSchipper. URL https://www.estherschipper.com/exhibitions/386-untilled-pierre-huyghe/(accessed 9.2.26).
 [3] bileam tschepe (elekktronaut), 2022. Image revealing (new)TouchDesigner tutorial 59. YouTube.
 [4] 10hrsh, 2013. Linkage mechanism for robot finger. YouTube
-[5]C. Bowker, G., 2011. Sorting Things Out. PsycCRITIQUES 56https://doi.org/10.1037/a0025682[6]MoMA, 2015. Pierre Huyghe's Untilled (Liegender Frauenakt) | MoMA[WWW
+[5]C. Bowker, G., 2011. Sorting Things Out. PsycCRITIQUES 56https://doi.org/10.1037/a0025682
+[6]MoMA, 2015. Pierre Huyghe's Untilled (Liegender Frauenakt) | MoMA[WWW
 Document]. The Museum of Modern Art. URLhttps://www.moma.org/calendar/exhibitions/15377]Coates, M., 2004. Journey to the Lower World [WWW Document]
 National Museums Liverpool. URL https://www.liverpoolmuseums.org.uk/artifact/journey-lower-world
 [8]Bucher, T., 2018. If .. then : algorithmic power and politics. OxfordUniversity Press,Oxford
